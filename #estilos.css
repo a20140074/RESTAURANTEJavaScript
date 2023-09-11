@@ -1,0 +1,15 @@
+h1{
+    color: rgb(25, 59, 255);
+    
+}
+h2{
+    color: rgb(238, 255, 0);
+    font-family: Arial, Helvetica, sans-serif;
+
+    p{
+        color: blue;
+        font-family: 'Times New Roman', Times, serif;
+        font-size: 25px;
+        text-align: justify;
+    }
+}
